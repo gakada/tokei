@@ -1088,7 +1088,7 @@
       "filenames": ["meson.build", "meson_options.txt"]
     },
     "Metal": {
-      "name": "Metal Shading Language",
+      "name": "Metal",
       "line_comment": ["//"],
       "multi_line_comments": [["/*", "*/"]],
       "quotes": [["\\\"", "\\\""]],
